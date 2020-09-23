@@ -1,0 +1,4 @@
+# IMDB-Review-Sentiment-Analysis
+Binary Classification: IMDB Dataset
+Introduction:
+The purpose of this report is to explore and solve the binary classification problem using the IMDB dataset. In order to do that, we have to create a deep learning model that classifies if a movie review (from the dataset) is positive or negative (good or bad) on the basis of the the text content of the movie reviews. The dataset has 50,000 reviews and these reviews will be split into two where half the reviews is to train the model and the other is to test the model. This is essential as a machine learning model should not be tested on the same data it was trained with as that is not a good indicator of whether the model is working well or not as it needs to work well for data it has not seen before otherwise we do not know for certain if the model is working properly.
